@@ -9,8 +9,6 @@
 Download from: https://lab.osai.ai/
 
 ### NCUTT
-Download from: https://huggingface.co/datasets/DuyNguyenTV/NCUTT  
-
 
 The dataset contains 6 videos:
 - C0024 and C0035 are used for validation
