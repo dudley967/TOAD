@@ -1,0 +1,22 @@
+# Core deep learning
+torch==2.8.0
+torchvision==0.23.0
+
+# YOLO / object detection
+ultralytics==8.4.75
+
+# Computer vision
+opencv-python==4.13.0.92
+
+# Numerical / scientific
+numpy==2.0.2
+scipy==1.13.1
+
+# Tracking
+filterpy==1.4.5
+
+# Utilities
+tqdm==4.68.3
+
+# TensorRT export (requires NVIDIA GPU + TensorRT SDK installed separately)
+# tensorrt==11.1.0.106
