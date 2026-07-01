@@ -5,7 +5,7 @@ import sys
 _LOCAL_ULTRALYTICS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ultralytics')
 if _LOCAL_ULTRALYTICS not in sys.path:
     sys.path.insert(0, _LOCAL_ULTRALYTICS)
-
+#modified to upload
 import cv2
 import numpy as np
 from ultralytics import YOLO
